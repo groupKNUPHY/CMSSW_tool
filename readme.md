@@ -33,7 +33,7 @@ cmsrel CMSSW_X_X_X
 5. CMSSW 환경 셋업  
 ```bash
 cd CMSSW_X_X_X/src
-cmsev
+cmsenv
 ```
 - 환경 셋업후 CMSSW 에서 제공하는 tool을 사용할수 있음 (ex ROOT) 
 
